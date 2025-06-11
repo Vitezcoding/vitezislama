@@ -612,10 +612,24 @@
 	--button-border:1px solid #FFFFFF;
 }
 
+/* Odysee */
+.button-od {
+	--button-text:#FFFFFF;
+	--button-background:#dc4f0e7d;
+	--button-border:1px solid #FFFFFF;
+}
+
+/* Rumble */
+.button-rm {
+	--button-text:#FFFFFF;
+	--button-background:#093f0874;
+	--button-border:1px solid #FFFFFF;
+}
+
 /* YouTube */
 .button-yt {
 	--button-text:#ffffff;
-	--button-background:#282828;
+	--button-background:#ef393966;
 	--button-border:1px solid #FFFFFF;
 }
 
